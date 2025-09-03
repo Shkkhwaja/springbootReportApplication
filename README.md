@@ -104,14 +104,14 @@ src/main/java/com/excelr
 
 3. Build & Run:
    
-```bash
+
     mvn spring-boot:run
 
 
 4. Open in browser:
 
 http://localhost:8080/
-
+```bash
 
 
 📧 Email Config Example (application.properties)
